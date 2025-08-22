@@ -8,18 +8,18 @@
 
 ### Tech Stack
 
-**Languages & Runtimes:**  
+**Language & Runtime:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Frameworks & Libraries:**  
-![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=flat-square)
+**Web Framework:**  
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square)
 
-**Databases & Tools:**  
+**Database & Data Layer:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![golang-migrate](https://img.shields.io/badge/DB_Migrate-00ADD8?style=flat-square)
+![golang-migrate](https://img.shields.io/badge/DB_Migrations-00ADD8?style=flat-square)
 
-**DevOps & Tools:**  
+**Development Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
