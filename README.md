@@ -1,12 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=180&height=70&lines=CULT" alt="CULT" />
-</h1>
+# 👋 Hello, I'm CULT
 
 <h3 align="center">Golang Backend Developer</h3>
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Language & Runtime:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -29,14 +27,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markbelaev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=markbelaev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8&card_width=445" alt="Top Languages" height="165"/>
 </p>
 
-### 🧠 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/markbelaev?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markbelaev&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
