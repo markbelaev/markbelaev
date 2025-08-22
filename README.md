@@ -4,12 +4,6 @@
 
 <h3 align="center">Golang Developer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Writing+clean+and+efficient+code;Building+reliable+backend+systems;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
