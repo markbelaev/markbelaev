@@ -1,10 +1,12 @@
-# 👋 Hello, I'm CULT
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=180&height=70&lines=CULT" alt="CULT" />
+</h1>
 
 <h3 align="center">Golang Backend Developer</h3>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Language & Runtime:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
