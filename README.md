@@ -8,20 +8,22 @@
 
 ### 🛠️ Tech Stack
 
-**Backend Development:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![RESTful](https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=json&logoColor=white)
+**Languages & Runtimes:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Databases & Storage:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![golang-migrate](https://img.shields.io/badge/Golang_Migrate-00ADD8?style=flat-square&logo=go&logoColor=white)
+**Frameworks & Libraries:**  
+![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge)
+![RESTful](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge)
 
-**Tools & DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Databases & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![golang-migrate](https://img.shields.io/badge/DB_Migrate-00ADD8?style=for-the-badge)
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
