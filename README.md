@@ -13,7 +13,6 @@
 
 **Frameworks & Libraries:**  
 ![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge)
-![RESTful](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge)
 
 **Databases & Tools:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
