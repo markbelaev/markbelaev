@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&repeat=false&lines=Salva+et+Serva" alt="Salva et Serva" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=60&lines=Salva+et+Serva" alt="Salva et Serva" />
 </h1>
-<h3 align="center" style="color: #888;">
+<h3 align="center" style="color: #C0C0C0; font-style: italic;">
   Save and Preserve
 </h3>
 
