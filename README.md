@@ -1,15 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=60&lines=Salva+et+Serva" alt="Salva et Serva" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=180&height=70&lines=CULT" alt="CULT" />
 </h1>
-<h3 align="center" style="color: #C0C0C0; font-style: italic;">
-  Save and Preserve
-</h3>
 
 <h3 align="center">Golang Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Writing+clean+and+efficient+code;Building+reliable+backend+systems;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Writing+clean+and+efficient+code;Building+reliable+backend+systems;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,16 +30,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markbelaev&show_icons=true&theme=nightowl&hide_border=true" alt="Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=nightowl&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=markbelaev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/markbelaev?theme=dark&font=Abel&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/markbelaev?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=markbelaev&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=markbelaev&style=flat-square&color=lightgrey" alt="Profile Views"/>
 </p>
