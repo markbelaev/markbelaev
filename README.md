@@ -2,19 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=180&height=70&lines=CULT" alt="CULT" />
 </h1>
 
-<h3 align="center">Golang Developer</h3>
+<h3 align="center">Golang Backend Developer</h3>
 
 ---
 
-### Stack
+### 🛠️ Tech Stack
 
-**Language:**  
+**Backend Development:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![RESTful](https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=json&logoColor=white)
 
-**Database:**  
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Databases & Storage:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![golang-migrate](https://img.shields.io/badge/Golang_Migrate-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Tools:**  
+**Tools & DevOps:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
