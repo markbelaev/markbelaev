@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Markbelaev</h1>
+<h3 align="center">Golang Developer</h3>
 
-<!--
-**markbelaev/markbelaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Writing+clean+and+efficient+code;Building+reliable+backend+systems;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Programming Language:**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Database:**
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markbelaev&show_icons=true&theme=nightowl&hide_border=true" alt="Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=nightowl&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+</p>
+
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/markbelaev?theme=dark&font=Abel&ext=contest" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=markbelaev&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
