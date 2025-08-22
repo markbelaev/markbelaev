@@ -1,9 +1,15 @@
-<h1 align="center">Salva et Serva</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&repeat=false&lines=Salva+et+Serva" alt="Salva et Serva" />
+</h1>
+<h3 align="center" style="color: #888;">
+  Save and Preserve
+</h3>
+
 <h3 align="center">Golang Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Writing+clean+and+efficient+code;Building+reliable+backend+systems;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Writing+clean+and+efficient+code;Building+reliable+backend+systems;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
