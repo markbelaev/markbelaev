@@ -8,30 +8,21 @@
 
 **Language & Runtime:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square)
 
 **Web Framework:**  
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **Database & Data Layer:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
 ![golang-migrate](https://img.shields.io/badge/DB_Migrations-00ADD8?style=flat-square)
-![Database Design](https://img.shields.io/badge/Database_Design-336791?style=flat-square)
 
 **Development Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Architecture & Patterns:**  
-![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-Architecture-FF9800?style=flat-square)
-![API Design](https://img.shields.io/badge/API_Design-4CAF50?style=flat-square)
 
 ---
 
@@ -44,34 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markbelaev&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="165"/>
 </p>
 
----
-
-**📊 Database Skills:**
-- **PostgreSQL**: Production experience, complex queries, migrations, optimization
-- **MySQL**: Solid understanding, personal projects, quick adaptation capabilities  
-- **Database Design**: Normalization, indexing, query optimization
-- **ORM/Drivers**: pgx, go-sql-driver/mysql, database/sql
-
-**🚀 Recent Projects:**
-- REST API with Gin + PostgreSQL
-- Microservices architecture implementation
-- Database migration systems
-- API versioning strategies
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=markbelaev&style=flat-square&color=lightgrey" alt="Profile Views"/>
-  <a href="https://github.com/markbelaev?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-15+-blue?style=flat-square" alt="Projects"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
