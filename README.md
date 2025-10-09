@@ -30,17 +30,6 @@
 
 ---
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <a href="https://github.com/markbelaev">
-    <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markbelaev&show_icons=true&theme=radical&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=radical&langs_count=6" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=markbelaev&style=for-the-badge&color=lightgrey" alt="Profile Views"/>
 </p>
