@@ -30,15 +30,13 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markbelaev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=markbelaev&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/markbelaev">
+    <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markbelaev&show_icons=true&theme=radical&include_all_commits=true" />
+    <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markbelaev&layout=compact&theme=radical&langs_count=6" />
+  </a>
 </p>
 
 ---
